@@ -1,2 +1,1 @@
-# selfstarterUs
-selfstarter.us
+## selfstarterUs
